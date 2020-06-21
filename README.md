@@ -51,7 +51,5 @@ Training & Prediction can be run as follows:
 
 Name |  epochs  | Training Accuracy |  Validation Accuracy  |
 :---: | :---: | :---: | :---:
-LeNet   | 2  |  96.62% | 96.85%
 LeNet_5 | 2 |  96.54% | 96.64%
-LeNet   | 10  |  98.28% | 97.69%
 LeNet_5 | 10 |  98.82% | 98.30%

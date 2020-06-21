@@ -30,7 +30,7 @@ model_name = "models/lenet_5/digists"
 data_path  = "../data_img/MNIST/train/"
 
 # Step 0: Global Parameters
-epochs     = 10
+epochs     = 2
 lr_rate    = 0.001
 batch_size = 32
 
